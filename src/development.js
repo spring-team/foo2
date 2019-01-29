@@ -1,5 +1,5 @@
 /* eslint-disable no-console */
-require('colors');
+require('colors'); 
 const Koa = require('koa');
 const webpack = require('webpack');
 const { webpackServer, findCompiler } = require('koa-webpack-server');
